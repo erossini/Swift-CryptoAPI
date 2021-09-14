@@ -1,6 +1,9 @@
 # Swift: CryptoAPI
 Connection to an API: Cryptocurrency Price Tracker
 
+## Screenshot
+![Cryptocurrency Price Tracker](https://user-images.githubusercontent.com/9497415/133314117-3f939cb5-978d-415c-b8ad-1a9dbb68dcb3.png)
+
 ## More Swift code
 - [Hello World!](https://github.com/erossini/Swift-HelloWorld)
 - [BMI Calculator](https://github.com/erossini/Swift-BMICalculator)
